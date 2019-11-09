@@ -1,5 +1,4 @@
-name: ttth
-description: 'Free and Open Source desktop app for online services like WhatsApp, Threema, Telegram, Twitter, Google and several others.'
+name: $ ssh-keygen -t rsa -b 4096 -C "dashbx01@outlook.com"description: 'Free and Open Source desktop app for online services like WhatsApp, Threema, Telegram, Twitter, Google and several others.'
 website: 'https://github.com/yafp/ttth'
 repository: 'https://github.com/yafp/ttth'
 keywords:
